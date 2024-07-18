@@ -12,3 +12,8 @@ At the end of the competition, print out the winner and log how much information
 </p>
 
 
+<img width="1452" alt="MainCodeSS" src="https://github.com/user-attachments/assets/a0957ef9-7973-4646-a03f-74dff5110527">
+
+
+
+<img width="1452" alt="MainCodeSS2" src="https://github.com/user-attachments/assets/0c1ba33c-4dd0-45d1-b727-8122c46bddc3">
